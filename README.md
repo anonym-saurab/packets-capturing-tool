@@ -3,7 +3,9 @@
 ![Packets Capturing Tool](https://img.shields.io/badge/version-1.0-blue.svg)
 
 ## Screenshots
-![Alt text](path/to/image)
+![Alt text](screenshot_1.png)
+![Alt text](screenshot_2.png)
+![Alt text](screenshot_3.png)
 
 
 ## Table of Contents
