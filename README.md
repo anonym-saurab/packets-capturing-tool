@@ -63,5 +63,21 @@ Run the tool with administrative privileges:
 
 ```bash
 sudo python3 net-analyzer.py
+```
 
+## Example
+
+- Enter any text: Hello World.
+- Click "Generate Hash".
+- Output hash value will be displayed below.
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+
+- Fork the repository.
+- Create a new branch: git checkout -b feature-branch-name.
+- Make your changes.
+- Commit your changes: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature-branch-name.
+- Open a pull request.
 
