@@ -65,12 +65,6 @@ Run the tool with administrative privileges:
 sudo python3 net-analyzer.py
 ```
 
-## Example
-
-- Enter any text: Hello World.
-- Click "Generate Hash".
-- Output hash value will be displayed below.
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
